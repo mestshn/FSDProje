@@ -1,0 +1,8 @@
+C:\Users\Mesut\Desktop\Yeni klasör (2)\FSDProje\FSDProje\bin\Debug\FSDProje.exe.config
+C:\Users\Mesut\Desktop\Yeni klasör (2)\FSDProje\FSDProje\bin\Debug\FSDProje.exe
+C:\Users\Mesut\Desktop\Yeni klasör (2)\FSDProje\FSDProje\bin\Debug\FSDProje.pdb
+C:\Users\Mesut\Desktop\Yeni klasör (2)\FSDProje\FSDProje\obj\Debug\FSDProje.csproj.AssemblyReference.cache
+C:\Users\Mesut\Desktop\Yeni klasör (2)\FSDProje\FSDProje\obj\Debug\FSDProje.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mesut\Desktop\Yeni klasör (2)\FSDProje\FSDProje\obj\Debug\FSDProje.csproj.CoreCompileInputs.cache
+C:\Users\Mesut\Desktop\Yeni klasör (2)\FSDProje\FSDProje\obj\Debug\FSDProje.exe
+C:\Users\Mesut\Desktop\Yeni klasör (2)\FSDProje\FSDProje\obj\Debug\FSDProje.pdb
